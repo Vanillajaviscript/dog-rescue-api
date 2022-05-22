@@ -1,5 +1,3 @@
-
-
 const dogs = [
     {
         id: 2167,
